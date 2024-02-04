@@ -12,5 +12,6 @@
     "components"
   ],
   "author": "kteam",
-  "license": "ISC"
+  "license": "ISC",
+  "type": "module"
 }
