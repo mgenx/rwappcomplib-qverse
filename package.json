@@ -1,6 +1,6 @@
 {
   "name": "rwappcomplib-qverse",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "comp lib",
   "main": "index.js",
   "scripts": {
