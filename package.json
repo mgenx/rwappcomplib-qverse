@@ -1,0 +1,16 @@
+{
+  "name": "rwappcomplib-qverse",
+  "version": "1.0.0",
+  "description": "comp lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nest",
+    "react",
+    "components"
+  ],
+  "author": "kteam",
+  "license": "ISC"
+}
