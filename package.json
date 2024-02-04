@@ -1,17 +1,24 @@
 {
   "name": "rwappcomplib-qverse",
-  "version": "1.0.1",
-  "description": "comp lib",
-  "main": "index.js",
+  "version": "1.1.0",
+  "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev -p 3031",
+    "build": "next build",
+    "start": "next start -p 3031",
+    "lint": "next lint"
   },
-  "keywords": [
-    "nest",
-    "react",
-    "components"
-  ],
-  "author": "kteam",
-  "license": "ISC",
-  "type": "module"
+  "dependencies": {
+    "react": "^18",
+    "react-dom": "^18",
+    "next": "14.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.1.0"
+  }
 }
